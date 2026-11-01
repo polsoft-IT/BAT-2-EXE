@@ -1,0 +1,1 @@
+BAT-2-EXE is a Windows desktop utility that converts .bat and .cmd scripts into standalone .exe files. Configure console visibility, UAC level, pause behavior, architecture, custom icons, and bundled resources, then save the result in a dist folder.
