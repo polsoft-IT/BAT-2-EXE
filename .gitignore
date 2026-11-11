@@ -3,4 +3,5 @@
 REPO_MAP.md
 .dev/
 .venv/
-.vscode/modules/BAT2EXE.exe
+.vscode/
+modules/BAT2EXE.exe
