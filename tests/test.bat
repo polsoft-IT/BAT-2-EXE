@@ -1,6 +1,6 @@
 @echo off 
 chcp 65001 >nul
-title ¹q¤lÄÁªş¬íª©-¸g¨å´Ú 
+title Digital Clock 
 mode con cols=58 lines=7
 COLOR f
 set m=2
