@@ -6,3 +6,4 @@ REPO_MAP.md
 .vscode/
 modules/BAT2EXE.exe
 /__pycache__
+/modules/__pycache__
